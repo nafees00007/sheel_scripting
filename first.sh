@@ -12,3 +12,4 @@ ls
 ls -al
 date
 time
+ll
