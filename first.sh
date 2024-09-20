@@ -2,7 +2,7 @@
 
 # This is script for TWS
 
-echo "TWS: Hellllo Dosto"
+echo "TWS: Helllllllo Dosto"
 
 echo "Learners: DevOps Wale bhaiya , hum toh comment karenge"
 
