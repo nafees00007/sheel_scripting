@@ -13,3 +13,4 @@ ls -al
 date
 time
 ll
+ls -alhtr
